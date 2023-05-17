@@ -12,7 +12,6 @@ const cookieParser = require("cookie-parser");
 // const fileupload = require("express-fileupload");
 // const path = require("path");
 const http = require("http");
-// const { socketio } = require("./utils/socketio");
 
 //  ######  ####### #     # ####### #######  #####
 //  #     # #     # #     #    #    #       #     #
